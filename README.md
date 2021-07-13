@@ -28,6 +28,8 @@
 
 [![Songhun](https://github-readme-stats.vercel.app/api?username=SongHunHan)](https://github.com/SongHunHan)
 
+### algorithm ( BaekJoon )
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksthdgns3)](https://solved.ac/profile/gksthdgns3)
 
 <!--
 **SongHunHan/SongHunHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
