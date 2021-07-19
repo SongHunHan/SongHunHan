@@ -17,6 +17,7 @@
 |---|---|---|---|
 | AI | 치아충치판별_application 제작 | in progress | Object-detection / yolov5 |
 | AI | 차량혼잡도파악_application 제작 | in progress | Object-detection / yolov5 |
+| AI | 무인판매점 제작 | in progress | Object-detection / yolov5 |
 
 ## Award
 
