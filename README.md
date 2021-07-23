@@ -11,10 +11,13 @@
 | working | 2021.01 ~ 2021.02 | SSMOBILITY_Internship |
 
 
+
+
 ## Project
 
 | Type | Content | status | CH |
 |---|---|---|---|
+| AI | mask-RCNN(tutorial) | complete | image-segmentation / mask-R-CNN |
 | AI | 치아충치판별_application 제작 | in progress | Object-detection / yolov5 |
 | AI | 치아충치판별_application 제작2 | in progress | Object-detection / mask-R-CNN |
 | AI | 차량혼잡도파악_application 제작 | in progress | Object-detection / yolov5 |
