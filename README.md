@@ -11,8 +11,6 @@
 | working | 2021.01 ~ 2021.02 | SSMOBILITY_Internship |
 
 
-
-
 ## Project
 
 | Type | Content | status | CH |
@@ -62,6 +60,12 @@
 </div>
 
 </td></tr></table><br>
+
+## work
+| Type | Content | status | CH | etc |
+|---|---|---|---|---|
+| AI | OpenImage-ObjectDetection | complete | Object-detection / yolov5 | using OIDv4 |
+
 
 ## Card
 
