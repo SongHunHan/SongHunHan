@@ -18,7 +18,7 @@
 ||Vision AI||
 | AI | mask-RCNN(tutorial) | complete | image-segmentation / mask-R-CNN |
 | AI | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_yolov5_cavityDetection) | in progress | Object-detection / yolov5 |
-| AI | 치아충치판별_application 제작2 | in progress | Object-detection / mask-R-CNN |
+| AI | 치아충치판별_application 제작2 | in progress | image-segmentation / mask-R-CNN |
 | AI | [차량혼잡도파악_application 제작](https://github.com/SongHunHan/AI_yolov5_vehicleDetection) | in progress | Object-detection / yolov5 |
 | AI | [무인판매점 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection / yolov5 |
 | AI | OpenImage-ObjectDetection | complete | Object-detection / yolov5 | using OIDv4 |
