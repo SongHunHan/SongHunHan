@@ -15,6 +15,8 @@
 
 | Type | Content | status | CH |
 |---|---|---|---|
+||  --- <b>Front-end</b>  --- ||
+||  --- <b>Back-end</b>  --- ||
 ||  --- <b>Vision AI</b>  --- ||
 | AI | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_yolov5_cavityDetection) | in progress | Object-detection / yolov5 |
 | AI | 치아충치판별_application 제작2 | in progress | image-segmentation / mask-R-CNN |
