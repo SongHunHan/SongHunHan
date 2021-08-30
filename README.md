@@ -62,8 +62,9 @@
 ### Can use this Language and Library
 <div align="left">
 <img style="margin: 10px padding-left: 5px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+(tensorflow)
 <img style="margin: 10px padding-left: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px padding-left: 5px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px padding-left: 5px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /> 
 </div>
 </table>  
   
