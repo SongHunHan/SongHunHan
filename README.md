@@ -17,7 +17,7 @@
 |---|---|---|---|
 ||  --- <b>Front-end</b>  --- ||
 ||  --- <b>Back-end</b>  --- ||
-||  --- <b>Artificial Intelligence</b>  --- ||
+||  --- <b>Artificial Intelligence(AI)</b>  --- ||
 | vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_yolov5_cavityDetection) | in progress | Object-detection / yolov5 |
 | vision | 치아충치판별_application 제작2 | in progress | image-segmentation / mask-R-CNN |
 | vision | [차량혼잡도파악_application 제작](https://github.com/SongHunHan/AI_yolov5_vehicleDetection) | in progress | Object-detection / yolov5 |
