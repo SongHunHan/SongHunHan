@@ -17,6 +17,7 @@
 |---|---|---|---|
 ||  --- <b>Front-end</b>  --- ||
 ||  --- <b>Back-end</b>  --- ||
+||  --- <b>Cloud</b>  --- ||
 ||  --- <b>Artificial Intelligence(AI)</b>  --- ||
 | vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_yolov5_cavityDetection) | in progress | Object-detection / yolov5 |
 | vision | 치아충치판별_application 제작2 | in progress | image-segmentation / mask-R-CNN |
@@ -24,7 +25,9 @@
 | vision | [무인판매점 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection / yolov5 |
 | vision | [OpenImage-ObjectDetection](https://github.com/SongHunHan/OpenImage-ObjectDetection) | complete | Object-detection / yolov5 | using OIDv4 |
 | RL | 테니스 Posture 교정 봇 | in progress | Reinforce-Running / ... |
-||  --- <b>Cloud</b>  --- ||
+
+
+- [Kaggle](https://github.com/zzsza/Kaggle-knowhow)
 
 ## Development_tools
 
