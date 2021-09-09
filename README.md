@@ -27,7 +27,7 @@
 | RL | 테니스 Posture 교정 봇 | in progress | Reinforce-Running / ... |
 
 
-- [Kaggle](https://github.com/zzsza/Kaggle-knowhow)
+## - [Kaggle](https://github.com/zzsza/Kaggle-knowhow)
 
 ## Development_tools
 
