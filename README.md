@@ -19,8 +19,7 @@
 ||  --- <b>Back-end</b>  --- ||
 ||  --- <b>Cloud</b>  --- ||
 ||  --- <b>Artificial Intelligence(AI)</b>  --- ||
-| vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_yolov5_cavityDetection) | in progress | Object-detection |
-| vision | 치아충치판별_application 제작2 | in progress | image-segmentation / mask-R-CNN |
+| vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_yolov5_cavityDetection) | in progress | Object-detection,image-segmentation |
 | vision | [차량혼잡도파악_application 제작](https://github.com/SongHunHan/AI_yolov5_vehicleDetection) | in progress | Object-detection |
 | vision | [무인판매점 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
 | vision | [OpenImage-ObjectDetection](https://github.com/SongHunHan/OpenImage-ObjectDetection) | complete | Object-detection | using OIDv4 |
