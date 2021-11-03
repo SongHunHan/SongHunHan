@@ -24,7 +24,7 @@
 | vision | [무인판매점 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
 | vision | [OpenImage-ObjectDetection](https://github.com/SongHunHan/OpenImage-ObjectDetection) | complete | Object-detection | using OIDv4 |
 | RL | 테니스 Posture 교정 봇 | in progress | Reinforce-Running |
-
+| NLP | 언어사전 | in progress | NLP |
 
 ### [ - Kaggle_Project (link)](https://github.com/SongHunHan/Kaggle)
 
