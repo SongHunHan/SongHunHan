@@ -78,7 +78,7 @@
 ## Stuying
 
 | Type | Content | CH |
-|---|---|---|---|
+|---|---|---|
 ||  --- <b>Artificial Intelligence(AI)</b>  --- ||
 | AI | [모델 구현](https://) | pytorch model |
 
