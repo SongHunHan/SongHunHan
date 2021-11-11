@@ -2,15 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongHunHan&count_bg=%23FF8888&title_bg=%239BB1FF&icon=&icon_color=%23D99595&title=visit+&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-## Career
-
-| Type | Date | Content | 
-|------|---|---|
-| Education | 2016.03 ~ | 숭실대학교 입학 |
-| working | 2021.01 ~ 2021.02 | SSMOBILITY_Internship |
-
-
 ## Project
 
 | Type | Content | status | CH |
@@ -83,6 +74,14 @@
 | AI | [모델 구현](https://) | pytorch model |
 
 ## Award
+
+## Career
+
+| Type | Date | Content | 
+|------|---|---|
+| Education | 2016.03 ~ | 숭실대학교 입학 |
+| working | 2021.01 ~ 2021.02 | SSMOBILITY_Internship |
+
 
 ## Card
 
