@@ -76,6 +76,10 @@
 
 ## Award
 
+| Type | Content | Date | 
+|------|---|---|
+| 총장상(1) | 졸업작품 경진대회 | 2021.11 |
+
 ## Career
 
 | Type | Date | Content | 
