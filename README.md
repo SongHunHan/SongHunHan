@@ -11,8 +11,8 @@
 ||  --- <b>Cloud</b>  --- ||
 ||  --- <b>Artificial Intelligence(AI)</b>  --- ||
 | vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_cavityDetection) | complete | Object-detection,image-segmentation |
-| vision | [차량혼잡도파악_application 제작](https://github.com/SongHunHan/AI_VehicleDetection) | in progress | Object-detection |
-| vision | [무인판매점 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
+| vision | [무인판매점AI 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
+| vision | [차량판별-ObjectDetection](https://github.com/SongHunHan/AI_VehicleDetection) | in progress | Object-detection |
 | vision | [OpenImage-ObjectDetection](https://github.com/SongHunHan/OpenImage-ObjectDetection) | complete | Object-detection | using OIDv4 |
 | vision | 다이어트 application | in progress | Object-detection / recommend AI | ?? |
 | RL | 테니스 Posture 교정 봇 | in progress | Reinforce-Running |
