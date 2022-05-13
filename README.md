@@ -2,11 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongHunHan&count_bg=%23FF8888&title_bg=%239BB1FF&icon=&icon_color=%23D99595&title=visit+&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Project
+## AI_Project
 
 | Type | Content | status | CH |
 |---|---|---|---|
-||  --- <b>AI project</b>  --- ||
 | vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_cavityDetection) | complete | Object-detection,image-segmentation |
 | vision | [무인판매점AI 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
 | vision | [차량판별-ObjectDetection](https://github.com/SongHunHan/AI_VehicleDetection) | complete | Object-detection |
@@ -15,7 +14,7 @@
 | RL | 테니스 Posture 교정 봇 | in progress | Reinforce-Running |
 | NLP | 언어사전 | in progress | NLP |
 
-### [ [ AI competition (link) ] ](https://github.com/SongHunHan/Kaggle)
+### [  [ AI competition (link) ] ](https://github.com/SongHunHan/Kaggle)
 
 ## Development_tools
 <div align="left">
