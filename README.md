@@ -6,10 +6,7 @@
 
 | Type | Content | status | CH |
 |---|---|---|---|
-||  --- <b>Front-end</b>  --- ||
-||  --- <b>Back-end</b>  --- ||
-||  --- <b>Cloud</b>  --- ||
-||  --- <b>Artificial Intelligence(AI)</b>  --- ||
+||  --- <b>AI project</b>  --- ||
 | vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_cavityDetection) | complete | Object-detection,image-segmentation |
 | vision | [무인판매점AI 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
 | vision | [차량판별-ObjectDetection](https://github.com/SongHunHan/AI_VehicleDetection) | complete | Object-detection |
@@ -18,61 +15,21 @@
 | RL | 테니스 Posture 교정 봇 | in progress | Reinforce-Running |
 | NLP | 언어사전 | in progress | NLP |
 
-### [ - Kaggle_Project (link)](https://github.com/SongHunHan/Kaggle)
+### [ [ AI competition (link) ] ](https://github.com/SongHunHan/Kaggle)
 
 ## Development_tools
-
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="k8s" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-<table>
-
-### Can use this Language and Library
 <div align="left">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-(Tensorflow)
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /> 
 (Pytorch)
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 (Linux)
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-(C++)
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="k8s" height="50" />
+(kubernetes)
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+(docker)
 </div>
 </table>  
 
-## Stuying
-
-| Type | Content | CH |
-|---|---|---|
-||  --- <b>Artificial Intelligence(AI)</b>  --- ||
-| AI | [모델 구현](https://) | pytorch model |
 
 ## Award
 
@@ -84,9 +41,9 @@
 
 | Type | Date | Content | 
 |------|---|---|
-| Education | 2016.03 ~ | 숭실대학교 입학 |
+| Education | 2016.03 ~ 2022.02 | 숭실대학교 입학 |
 | working | 2021.01 ~ 2021.02 | SSMOBILITY_Internship |
-
+| Education | 2022.03 ~ | 숭실대학교 대학원 입학 |
 
 ## Card
 
