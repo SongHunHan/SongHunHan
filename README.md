@@ -6,7 +6,7 @@
 
 | Type | Content | status | CH |
 |---|---|---|---|
-| NLP | [목소리 인증 모델](https://github.com/SongHunHan/speech-verification) | in progress | Speech-Verification | 
+| NLP | [목소리 인증 모델](https://github.com/SongHunHan/speech-verification) | complete | Speech-Verification | 
 | NLP | [법률 챗봇](https://github.com/SongHunHan/LawRAG_ChatBot) | complete | NLP | Langchain, RAG |
 | vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_cavityDetection) | complete | Object-detection,image-segmentation |
 | vision | [무인판매점AI 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
