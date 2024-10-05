@@ -13,8 +13,6 @@
 | vision | [무인판매점AI 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
 
 
-### [  [ AI competition (link) ] ](https://github.com/SongHunHan/Kaggle)
-
 ## Development_tools
 <div align="left">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /> 
