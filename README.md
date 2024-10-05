@@ -6,13 +6,11 @@
 
 | Type | Content | status | CH |
 |---|---|---|---|
-| NLP | [InterviewAI](https://github.com/SongHunHan/speech-verification) | complete | LLM, Quantization, PEFT | 
+| NLP | [InterviewAI](https://github.com/SongHunHan/Ainterview) | complete | LLM, Quantization, PEFT | 
 | Speech | [목소리 인증 모델](https://github.com/SongHunHan/speech-verification) | complete | Speech-Verification | 
 | NLP | [법률 챗봇](https://github.com/SongHunHan/LawRAG_ChatBot) | complete | NLP | Langchain, RAG |
 | vision | [치아충치판별_application 제작](https://github.com/SongHunHan/AI_cavityDetection) | complete | Object-detection,image-segmentation |
 | vision | [무인판매점AI 제작](https://github.com/SongHunHan/AI_yolov5_autoshop) | complete | Object-detection |
-| vision | [차량판별-ObjectDetection](https://github.com/SongHunHan/AI_VehicleDetection) | complete | Object-detection |
-| vision | [OpenImage-ObjectDetection](https://github.com/SongHunHan/OpenImage-ObjectDetection) | complete | Object-detection | using OIDv4 |
 
 
 ### [  [ AI competition (link) ] ](https://github.com/SongHunHan/Kaggle)
