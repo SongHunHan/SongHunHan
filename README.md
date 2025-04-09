@@ -1,7 +1,5 @@
 # SongHunHan_github
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongHunHan&count_bg=%23FF8888&title_bg=%239BB1FF&icon=&icon_color=%23D99595&title=visit+&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## AI_Project
 
 | Type | Content | status | CH |
