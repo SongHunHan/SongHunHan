@@ -35,10 +35,10 @@
 
 | Type | Date | Content | 
 |------|---|---|
-| Education | 2016.03 ~ 2022.02 | 숭실대학교 입학 |
-| working | 2021.01 ~ 2021.02 | SSMOBILITY_Internship |
-| Education | 2022.03 ~ 2024.02 | 숭실대학교 대학원 입학 |
 | working | 2025.02 ~ | KT 입사 |
+| Education | 2022.03 ~ 2024.02 | 숭실대학교 대학원 입학 |
+| working | 2021.01 ~ 2021.02 | SSMOBILITY_Internship |
+| Education | 2016.03 ~ 2022.02 | 숭실대학교 입학 |
 
 ## Card
 
