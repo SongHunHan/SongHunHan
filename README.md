@@ -13,14 +13,8 @@
 
 
 ## Development_tools
-<div align="left">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /> 
-(Pytorch)
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-(Linux)
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-(docker)
-</div>
+<img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /> <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+
 
 
 ## Award
